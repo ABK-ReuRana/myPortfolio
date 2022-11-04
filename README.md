@@ -1,4 +1,4 @@
-# This website is hosted on github pages : [Here](https://chic-fox-46ea64.netlify.app/)
+# This website is hosted on github pages : [Here](https://abk-reurana.github.io/myPortfolio/)
 
 ## I Learned from this project :
 > How to use HTML tags effectively.
